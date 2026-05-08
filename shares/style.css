@@ -1,0 +1,77 @@
+body
+{
+	background-image: url(a1.JPG);
+	color:white; font-family:Courier New;
+	font-weight:bold;
+}
+
+hr
+{
+	width:88%; height:7px; border-radius:15px;
+	background-color:silver;
+}
+
+button
+{
+	border-radius:15px; background-color:Gainsboro;
+	border:2px solid lime; color:DimGray; width:120px;
+	height:29px; margin-left:4%; margin-top:-10px;
+}
+
+img
+{
+	border-radius:25px; width:300px; height:400px;
+	border:3px solid Gainsboro;
+}
+
+table
+{
+	padding-left:10px;
+}
+
+td
+{
+	padding:10px;
+}
+
+.a2
+{
+	margin:5px; width:8%; height:35px;
+	border:2px ridge Gray; border-radius:8px;
+	font-size:15px;margin-left:89%;position:absolute; 
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+}
+
+.e
+{
+	color:lime;
+}
+
+.q
+{
+	height:25px; border-radius:30%; 
+	margin-top:10px; border:none;
+	width:25px;
+}
+
+.q1
+{
+	font-family:Trebuchet MS; font-size:22px;
+	margin-top:-1px; margin-left:20px; color:white;
+	color:Gainsboro;
+}
+
+.p1
+{
+	color:black; border:1px solid; border-radius:7px;
+	background-image: url(a2.PNG); width:100%;
+	font-family:Monotype Corsiva; font-size:28px; color:;
+	margin-top:20px; color:Gray;
+}
+
+.p2
+{
+	color:yellow;
+}
+
+

@@ -1,0 +1,61 @@
+body
+{
+	background-image: url(a1.JPG);
+	font-family:Courier New;
+	font-weight:bold;
+	color:Gainsboro;
+}
+
+button
+{
+	border:2px solid DarkGray; background-color:LightGray;
+	border-radius:15px; font-family:Courier New; height:33px;
+	margin-left:90px; font-weight:bold;
+}
+
+button:hover
+{
+	border:2px solid DarkGray; background-color:DimGray;
+	border-radius:15px; font-family:Courier New; height:33px;
+	
+}
+
+img
+{
+	border-radius:29px;
+}
+
+.a2
+{
+	border:4px solid silver;
+	border-radius:35px; margin:8px;
+}
+
+.a1
+{
+	width:88%; height:8px; background-color:Gainsboro;
+	border-radius:15px;
+}
+
+.a3
+{
+	margin:5px; width:8%; height:35px;
+	border:2px ridge Gray; border-radius:8px;
+	font-size:15px;margin-left:89%;position:absolute; 
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+}
+
+.a3:hover
+{
+	background-color:silver; border-radius:9px;
+	border:2px solid Gainsboro;
+	
+	margin:5px; width:8%; height:35px;
+	border:2px ridge Gray;font-size:15px;
+	margin-left:89%;position:absolute;
+}
+
+.q1
+{
+	width:300px; height:300px;
+}

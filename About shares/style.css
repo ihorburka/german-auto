@@ -1,0 +1,40 @@
+body
+{
+	background-image: url(a1.JPG);
+}
+
+p
+{
+	font-family:Courier New; font-size:28px; color:WhiteSmoke;
+	font-weight:400;
+}
+
+h1,h2
+{
+	font-family:Arial; color:WhiteSmoke; 
+}
+
+hr
+{
+	background-color:DarkGray; width:88%; height:7px;
+	border-radius:15px;
+}
+
+.a1
+{
+	height:25px; border-radius:15%; 
+	margin-top:10px;
+}
+
+.a2
+{
+	height:40px; width:90px; border:2px solid DimGray; border-radius:15px; 
+	background-color:Gainsboro; margin-left:91%; position:fixed;
+}
+
+.a2:hover
+{
+	background-color:DarkGray;
+}
+
+

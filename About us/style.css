@@ -1,0 +1,36 @@
+body
+{
+	background-image: url(a1.JPG); color:Ivory;
+}
+
+.a1
+{
+	font-family:Tahoma;
+}
+
+.a2
+{
+	font-family:Courier New; font-size:20px;
+}
+
+.a3{margin-left:370px; margin-top:-610px; 
+	border:2px solid lime; border-radius:15px;}
+	
+
+button
+{
+	margin:5px; width:15%; height:45px;
+	border:2px solid DimGray; background-color:Silver; 
+	border-radius:10px;font-size:15px;
+	margin-left:390px;  margin-top:-60px;
+
+}
+
+button:hover
+{
+	margin:5px; width:15%; height:45px;
+	border:2px solid Gray; background-color:Gainsboro; 
+	border-radius:35px;font-size:15px;
+	margin-left:390px;  margin-top:-60px;
+
+}

@@ -1,0 +1,351 @@
+body
+{
+	background-image: url(a4.JPG);
+}
+
+input
+{
+	margin:5px; width:74%; height:35px;
+	border:1px solid aqua; border-radius:8px;
+	font-size:15px;padding-left:10px; 
+	margin-left:10%; position:fixed;
+}
+
+a
+{
+	text-decoration:none; color:black;
+}
+
+
+.q
+{
+	height:20px; border-radius:30%; 
+	margin-top:10px;
+}
+
+
+.a1
+{
+	width:9%; height:15%; border:4px ridge lime;
+	border-radius:50px; position:absolute;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+}
+
+.a2
+{
+	list-style-type:none; margin-top:5%;
+	margin-left:7%; position:absolute;
+	font-size:27px;
+}
+
+.a3
+{
+	margin-top:100;
+}
+
+.a4
+{
+	margin:5px; width:8%; height:35px;
+	border:2px ridge Gray; border-radius:8px;
+	font-size:15px;margin-left:89%;position:absolute; 
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+}
+
+.a4:hover
+{
+	background-color:silver; border-radius:9px;
+	border:2px solid Gainsboro;
+}
+
+.a5
+{
+	position:absolute; margin-left:84%; border:2px ridge White;
+	border-radius:50px; width:3%; height:6%; margin-left:85%;
+	margin-top:2px; box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+}
+
+.a6
+{
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	position:absolute; border:2px solid DimGray;
+}
+
+.a7
+{
+	position:fixed; border:2px ridge Black;
+	border-radius:50px; width:6%; height:12%;
+	margin-top:120px; margin-left:5px;
+}
+
+
+.m1
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	height:55px; color:black;
+}
+
+
+ 
+
+.m2
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	margin-top:100px; color:black;
+}
+
+.m3
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m4
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m5
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m6
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m7
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m8
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m9
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m10
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+.m11
+{
+	display:inline; border:5px ridge DimGray;
+	border-radius:12px; background-color:silver;
+	margin:5px;  padding:10px; text-align:center;
+	box-shadow:4px 4px 4px rgba(0.5,0.5,0.5,0.5);
+	color:black;
+}
+
+
+.m1:hover
+{
+	background-color:LightGrey;
+}
+
+.m2:hover
+{
+	background-color:LightGrey;
+}
+
+.m3:hover
+{
+	background-color:LightGrey;
+}
+
+.m4:hover
+{
+	background-color:LightGrey;
+}
+
+.m5:hover
+{
+	background-color:LightGrey;
+}
+
+.m6:hover
+{
+	background-color:LightGrey;
+}
+
+.m7:hover
+{
+	background-color:LightGrey;
+}
+
+.m8:hover
+{
+	background-color:LightGrey;
+}
+
+.m9:hover
+{
+	background-color:LightGrey;
+}
+
+.m10:hover
+{
+	background-color:LightGrey;
+}
+
+.m11:hover
+{
+	background-color:LightGrey;
+}
+
+
+.x1
+{
+	display:none;
+}
+
+.m6:hover .x1
+{
+	display:inline-block;
+}
+
+.z1
+{
+	border:2px solid Gainsboro; border-radius:15px;
+	margin-top:150px; font-size:90%;
+}
+ 
+.z2
+{
+	font-family:Georgia; color:AliceBlue;
+}
+ 
+.z3
+{
+	height:320px; width:260px;
+	border-radius:13px;
+}
+ 
+.z4
+{
+	border-radius:15px;
+	border:3px groove SlateGray;
+	width:260px; height:435px;
+	margin-left:35px; margin:50px;
+	position:absolute;
+}
+
+.z5
+{
+	font-family:Trebuchet MS; font-size:22px;
+	margin-top:-1%; margin-left:20px; color:white;
+}
+ 
+.z6
+{
+	width:74%; height:35px;
+	border:2px solid lime; border-radius:15px;
+	margin-left:25px; color:GreenYellow;
+	font-family:Verdana;
+}
+
+.z6:hover{background-color:DarkGray;}
+
+.z7
+{
+	color:LimeGreen; font-family:Verdana;
+	top:10px;
+}
+
+.z8
+{
+	padding-top:-2px;
+} 
+ 
+.z9
+{
+	border-radius:15px;
+	border:3px groove SlateGray;
+	width:260px; height:435px;
+	left:350px;top:303px; margin:50px;
+	position:absolute;
+}
+		
+.z10
+{
+	border-radius:15px;
+	border:3px groove SlateGray;
+	width:260px; height:435px;
+	left:650px;top:303px; margin:50px;
+	position:absolute;
+}
+
+.z11
+{
+	border-radius:15px;
+	border:3px groove SlateGray;
+	width:260px; height:435px;
+	left:950px;top:303px; margin:50px;
+	position:absolute;
+}
+
+.z12
+{
+	list-style-type:none;
+}
+
+.z13
+{
+	color:black; font-family:Verdana;
+	top:10px;
+}
+
+
+.s1
+{
+	margin-top:600px;
+}
+ 
+.s2
+{
+	color:black; border:1px solid; border-radius:7px;
+	background-image: url(a5.JPG); width:100%;
+	font-family:Monotype Corsiva; font-size:28px; color:;
+	margin-top:20px; color:Gray;
+}
+
+.s3
+{
+	color:yellow;
+}
+

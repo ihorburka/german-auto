@@ -1,0 +1,54 @@
+body
+{
+	background-image: url(w2.PNG);
+}
+
+a
+{
+	text-decoration:none; color:black;
+}
+
+
+.a1
+{
+	height:500px; border:4px ridge silver; margin-top:-370px;
+	
+}
+
+.a2
+{
+	font-family:Trebuchet MS; font-size:22px; color:white;
+	
+}
+
+.a3{color:lime;}
+
+.a4
+{
+	width:10%; height:35px;
+	border:2px solid lime; border-radius:15px;
+	margin-left:25px; color:GreenYellow;
+	font-family:Verdana; margin-left:65px;
+}
+
+h1,h2
+{
+	margin-left:350px; font-family:Lucida Sans Unicode;
+}
+
+h2
+{
+	color:Gray;
+}
+
+.a5
+{
+	color:DimGray; border:4px groove SlateGray; 
+	width:270px;border-radius:25px; 
+	background-color:Gainsboro;
+}
+
+.a6
+{
+	border:4px groove SlateGray; width:270px; border-radius:9px; background-color:Gainsboro;
+}

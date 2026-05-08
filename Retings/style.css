@@ -1,0 +1,38 @@
+body
+{
+	background-image: url(a1.JPG); 
+	color:Azure; 
+}
+
+table
+{
+	height:600px; width:1000px;
+}
+
+
+table,td
+{
+	border:2px groove DimGray; 
+	font-size:100px; font-family:Mistral;
+	color:Silver;
+}
+
+button
+{
+	margin:5px; width:15%; height:45px;
+	border:2px solid DimGray; background-color:Silver; 
+	border-radius:10px;font-size:15px;
+	margin-left:1050px;  margin-top:-720px;
+
+}
+
+button:hover
+{
+	margin:5px; width:15%; height:45px;
+	border:2px solid Gray; background-color:Gainsboro; 
+	border-radius:35px;font-size:15px;
+	margin-top:-720px; margin-left:1050px;
+
+}
+
+

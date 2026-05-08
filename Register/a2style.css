@@ -1,0 +1,37 @@
+body
+{
+	background-image: url(a1.JPG);
+}
+
+form
+{
+	border-radius:15px;  border:5px solid DarkGray;
+	width:400px; height:60%; margin-top:8%;
+	padding-top:20px; background-image: url(.PNG);
+}
+
+input
+{
+	margin:5px; width:350px; height:35px;
+	border:2px solid DimGray; border-radius:8px;
+	font-size:15px; padding-left:10px;
+}
+
+.a1
+{
+	font-family:Lucida Console; color:GreenYellow;
+	border:2px solid LightGrey ; width:250px;
+	border-radius:8px; margin-left:17%;
+}
+
+.a2
+{
+	width:225px;
+}
+
+.a2:hover
+{
+	background-color:DarkSeaGreen;
+	border-radius:15px;
+	border:2px solid DarkGray;
+}

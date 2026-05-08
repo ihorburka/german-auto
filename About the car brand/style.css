@@ -1,0 +1,43 @@
+body
+{
+	background-image: url(a3.PNG); color:LightGrey;
+}
+
+a
+{
+	text-decoration:none; color:PowderBlue;
+}
+
+hr
+{
+	background-color:silver; border-radius:15px; height:7px;
+	width:88%;
+}
+
+p
+{
+	font-family:Courier New; font-size:25px; color:Gainsboro;
+}
+
+h1,h2
+{
+	font-family:Verdana;
+}
+
+.a1
+{
+	height:30px; border-radius:15px; border:2px solid silver;
+	margin-left:88%; position:fixed; font-family:Sylfaen; font-size:14px;
+}
+
+.a1:hover
+{
+	background-color:silver;
+}
+
+.a2
+{
+	position:fixed; border:2px ridge Black;
+	border-radius:50px; width:6%; height:12%;
+	margin-top:120px; margin-left:5px;
+}
